@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate with a focus on **AI**.
 
 ### 🚀 About Me:
-- 🎓 **B.Sc. in Computer Science & Engineering** from **Rajshahi University of Engineering & Technology (RUET)** with **CGPA: 3.79/4.00**.
+- 🎓 **B.Sc. in Computer Science & Engineering** from **University of Information Technology and Sciences**.
 - 💻 Exploring **Computer Vision**, **Human Computer Interaction** and **Cybersecurity**.
 - 💬 Let's talk **AI**, **Machine Learning** or **Deep Learning**!
 
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate wit
 
 ### 🛠️ Technologies:
 - **Languages**: Python, C++, SQL.
-- **Frameworks & Tools**: PyTorch, MySQL, Visual Studio Code, Microsoft Office.
+- **Frameworks & Tools**: MySQL, Visual Studio Code, Microsoft Office.
 - **Web**: HTML, CSS.
 
 ### 🔗 Connect with Me:
