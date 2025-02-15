@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate wit
 - 💬 Let's talk **AI**, **Machine Learning** or **Deep Learning**!
 
 ### 📈 GitHub Stats:
-![Ananna's GitHub Stats]
+[Ananna's GitHub Stats]
 <div align="left">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Specroza&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github Stat"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Specroza&layout=compact&theme=vue-dark&hide_border=true" width="33.5%" height="100%" alt="Github STat"/>
