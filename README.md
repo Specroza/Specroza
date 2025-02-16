@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate wit
 - 🎓 **B.Sc. in Computer Science & Engineering** from **University of Information Technology and Sciences**.
 - 💻 Exploring **Computer Vision**, **Human Computer Interaction** and **Cybersecurity**.
 - 💬 Let's talk **AI**, **Machine Learning** or **Deep Learning**!
-- 💼 Currently working on **Service Operations** at *foodpanda Bangladesh*
+- 💼 Currently working on **Service Operations** at **foodpanda Bangladesh**
 
 ### 📈 GitHub Stats:
 [Ananna's GitHub Stats]
