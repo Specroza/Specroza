@@ -6,13 +6,18 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate wit
 - 🎓 **B.Sc. in Computer Science & Engineering** from **University of Information Technology and Sciences**.
 - 💻 Exploring **Computer Vision**, **Human Computer Interaction** and **Cybersecurity**.
 - 💬 Let's talk **AI**, **Machine Learning** or **Deep Learning**!
+- 💼 Currently working on **Service Operations** at *foodpanda Bangladesh*
 
 ### 📈 GitHub Stats:
 [Ananna's GitHub Stats]
-<div align="left">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Specroza&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="46.7%" height="100%" alt="Github Stat"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Specroza&layout=compact&theme=vue-dark&hide_border=true" width="33.5%" height="100%" alt="Github STat"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Specroza&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Specroza&theme=tokyonight" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Specroza&layout=compact&theme=tokyonight" />
+</p>
+
 
 ### 🛠️ Technologies:
 - **Languages**: Python, C++, SQL.
