@@ -1,6 +1,6 @@
 # Hi there, I'm [Ananna Ayshi Rozario](https://github.com/Specroza) 👋
 
-<img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhkODI1OHYzM3BobDFuamY4eTA4ajRvc3B4bGg5bWt3NDVyM3dhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25zMmMyaXB6aXVva28yZnRmNW5keXJ1NzJvOXZxaGRmMmVtczE5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" />
 
 
 Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate with a focus on **AI**.
