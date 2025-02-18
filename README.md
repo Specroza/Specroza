@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** undergraduate wit
 
 
 ### 🛠️ Technologies:
-- **Languages**: Python, C++, SQL.
+- **Languages**: Python, C++, SQL, Java.
 - **Frameworks & Tools**: MySQL, Visual Studio Code, Microsoft Office.
 - **Web**: HTML, CSS.
 
